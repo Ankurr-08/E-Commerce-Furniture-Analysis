@@ -1,10 +1,5 @@
 # 🪑 E-Commerce Furniture Sales Analysis | Data Analytics Project
 
-🔗 **Live Tableau Dashboard:** https://public.tableau.com/views/E-CommerceFurnitureDashboard/E-CommerceDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link  
-📊 *Interactive dashboard analyzing pricing patterns, sales performance, shipping impact, and revenue contribution.*
-
----
-
 ## 📌 Project Summary
 This project performs a **business-focused exploratory data analysis (EDA)** on an **e-commerce furniture dataset** to understand how **pricing, shipping policies, and product performance** influence **sales volume and revenue**.
 
