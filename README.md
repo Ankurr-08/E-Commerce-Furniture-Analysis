@@ -3,7 +3,7 @@
 ## 📌 Project Summary
 This project performs a **business-focused exploratory data analysis (EDA)** on an **e-commerce furniture dataset** to understand how **pricing, shipping policies, and product performance** influence **sales volume and revenue**.
 
-The analysis combines **Python-based data cleaning and EDA**, **SQL-driven business queries**, and **Tableau dashboarding** to deliver actionable insights.  
+The analysis combines **Python-based data cleaning and EDA**, and **SQL-driven business queries** to deliver actionable insights.  
 This project is well-suited for **Data Analyst, Business Analyst, and Analytics Intern** roles.
 
 ---
@@ -13,7 +13,6 @@ This project is well-suited for **Data Analyst, Business Analyst, and Analytics 
 - Analyze pricing distribution and sales behaviour  
 - Evaluate the impact of shipping policies on sales performance  
 - Identify best-selling and high-revenue products  
-- Deliver insights through an interactive Tableau dashboard  
 
 ---
 
@@ -35,12 +34,11 @@ This project is well-suited for **Data Analyst, Business Analyst, and Analytics 
 - Python
 - Pandas
 - NumPy
+- Seaborn
+- Matplotlib
 
 **Databases & Querying**
 - SQL (MySQL)
-
-**Visualization**
-- Tableau
 
 **Analytics Techniques**
 - Data Cleaning & Validation  
@@ -102,7 +100,7 @@ SQL was used to demonstrate **query-based analysis and business logic handling**
 
 ## 🚀 Impact & Business Value
 - Converts raw e-commerce data into **actionable business insights**  
-- Demonstrates an **end-to-end analytics workflow** using Python, SQL, and Tableau  
+- Demonstrates an **end-to-end analytics workflow** using Excel, Python, and SQL  
 - Supports **data-driven pricing and shipping strategy decisions**  
 - Strong portfolio project for analytics and business intelligence roles  
 
@@ -118,7 +116,7 @@ SQL was used to demonstrate **query-based analysis and business logic handling**
 ---
 
 ## 🧾 Conclusion
-This project demonstrates a complete **e-commerce analytics workflow**—from raw data inspection and cleaning to SQL-based analysis and insight-driven dashboarding.  
+This project demonstrates a complete **e-commerce analytics workflow**—from raw data inspection and cleaning to SQL-based analysis.  
 It highlights how **pricing strategy, shipping policies, and product performance** influence sales and revenue, enabling informed business decision-making.
 
 ---
