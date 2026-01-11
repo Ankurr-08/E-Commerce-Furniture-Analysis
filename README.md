@@ -91,27 +91,6 @@ SQL was used to demonstrate **query-based analysis and business logic handling**
 
 ---
 
-### 5️⃣ Tableau Dashboard Development
-An interactive Tableau dashboard was created to translate analytical findings into intuitive visual insights.
-
-The dashboard focuses on **pricing behaviour, demand patterns, shipping impact, and revenue contribution**.
-
-#### Dashboard Includes
-- **KPI Cards**
-  - Total Products  
-  - Total Units Sold  
-  - Total Price
-  - Total Revenue  
-- Price Distribution Analysis  
-- Top Products by Units Sold  
-- Shipping Policy Impact on Sales  
-- Average Units Sold by Price Range  
-- Top Products by Revenue  
-
-Shipping-related tags were analyzed in place of product categories to evaluate how **delivery policies influence sales performance**, as explicit category data was not available.
-
----
-
 ## 📌 Key Insights
 - Furniture prices are **concentrated within a narrow range**, with limited premium outliers  
 - A small number of products contribute a **large share of total sales and revenue**  
