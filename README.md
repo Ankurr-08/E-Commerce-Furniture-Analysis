@@ -4,7 +4,6 @@
 This project performs a **business-focused exploratory data analysis (EDA)** on an **e-commerce furniture dataset** to understand how **pricing, shipping policies, and product performance** influence **sales volume and revenue**.
 
 The analysis combines **Python-based data cleaning and EDA**, and **SQL-driven business queries** to deliver actionable insights.  
-This project is well-suited for **Data Analyst, Business Analyst, and Analytics Intern** roles.
 
 ---
 
